@@ -1,10 +1,15 @@
 # 🔐 FILE-INTEGRITY-CHECKER
 
 **Company**: CodTech IT Solutions
+
 **Intern Name**: Kasagoni Mahesh
+
 **Intern ID**: CT06DM1440
+
 **Domain**: Cyber Security & Ethical Hacking
+
 **Duration**: 4 Weeks
+
 **Mentor**: Neela Santosh
 
 ---
